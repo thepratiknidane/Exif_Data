@@ -6,4 +6,4 @@ Requirements:
 - Python
 - Any Code Editor
 
-  if you want to optimize the code or want to make nay changes. Go Ahead !!!
+  if you want to optimize the code or want to make any changes. Go Ahead !!!
