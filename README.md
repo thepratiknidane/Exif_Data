@@ -7,23 +7,25 @@ This Python program extracts EXIF (Exchangeable Image File Format) data from ima
 Installation
 Clone the repository:
 
-/git clone https://github.com/thepratiknidane/exif_data.git
+	git clone https://github.com/thepratiknidane/exif_data.git
 
 
 Navigate to the project directory:
 
-/cd exif_data
+	cd exif_data
 
 Usage
 
 Command Line Arguments
 For Linux:
-/python3 main.py
+
+	python3 main.py
 
 For Windows:
-/python main.py
 
-	You can use code editor
+	python main.py
+
+You can use code editor
 
 Contributing
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
