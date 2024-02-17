@@ -1,9 +1,29 @@
-# exif_data
+Image EXIF Data Extractor
 
-Just Clone the project file in your sysytem or simply download and extract the ZIP File
+Description
+This Python program extracts EXIF (Exchangeable Image File Format) data from images. EXIF data typically includes information such as camera settings, date and time the photo was taken, GPS coordinates, and more.
 
-Requirements:
-- Python
-- Any Code Editor
 
-  if you want to optimize the code or want to make any changes. Go Ahead !!!
+Installation
+Clone the repository:
+
+git clone https://github.com/thepratiknidane/exif_data.git
+
+
+Navigate to the project directory:
+
+cd exif_data
+
+Usage
+
+Command Line Arguments
+For Linux:
+python3 main.py
+
+For Windows:
+python main.py
+
+	/You can use code editor
+
+Contributing
+If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
