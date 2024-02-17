@@ -35,7 +35,10 @@ def extract_exif_data():
 def select_image():
     """Function to open a file dialog and set the selected image path in the entry."""
     image_path = filedialog.askopenfilename(
-        filetypes=[("Image Files", "*.jpg;*.jpeg;*.png;*.gif")]
+        filetypes=[("JPG File", "*.jpg"),
+                   ("JPEG File", "*.jpeg"),
+                   ("GIF File", "*.gif"),
+                   ("PNG File","*.png")]
     )
     image_file_entry.config(state="normal")  # Enable the entry
     image_file_entry.delete(0, tk.END)  # Clear any previous content
