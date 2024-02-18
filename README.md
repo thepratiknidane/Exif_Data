@@ -1,4 +1,4 @@
-Image EXIF Data Extractor
+# Image EXIF Data Extractor
 
 Description
 This Python program extracts EXIF (Exchangeable Image File Format) data from images. EXIF data typically includes information such as camera settings, date and time the photo was taken, GPS coordinates, and more.
